@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 header{
     background-image: url(../img/pattern.png);
     background-color: aquamarine;
@@ -43,4 +47,23 @@ thead{
 
 .raw{
     background-color: aquamarine;
+}
+
+h2{
+    color: gray;
+    font-size: 25px;
+} 
+
+.link{
+    width: 230px;
+    height: 230px;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+}
+
+.link2{
+    width: 230px;
+    height: 230px;
+    color: white;
+    background-image: url(../img/graph.jpg);
 }

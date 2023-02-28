@@ -8,3 +8,39 @@ header{
     margin-top: 50px;
     width: 200px;
 }
+
+.author{
+    color: grey;
+}
+
+.date{
+    color: gray;
+    font-size: 15px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+span{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: aqua;
+    color: white;
+}
+
+.w30{
+    width: 25%;
+}
+
+.raw{
+    background-color: aquamarine;
+}

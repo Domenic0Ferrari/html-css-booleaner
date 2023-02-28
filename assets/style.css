@@ -1,0 +1,10 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aquamarine;
+    background-size: 370px;
+}
+
+.logo{
+    margin-top: 50px;
+    width: 200px;
+}

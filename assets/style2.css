@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+
+body{
+    margin-inline: auto;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: aquamarine;
+    background-size: 370px;
+}
+
+.logo{
+    margin-top: 50px;
+    width: 200px;
+}
+
+main{
+    margin-inline: auto;
+    max-width: 1200px;
+}
+
+h1{
+    text-align: center;
+}
+
+.author{
+    color: grey;
+}
+
+.date{
+    color: gray;
+    font-size: 15px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+span{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: aqua;
+    color: white;
+}
+
+.w30{
+    width: 25%;
+}
+
+.raw{
+    background-color: aquamarine;
+}
+
+aside{
+    margin-inline: auto;
+    max-width: 1200px;
+}
+
+h2{
+    color: gray;
+    font-size: 25px;
+} 
+
+.link{
+    width: 230px;
+    height: 230px;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+}
+
+.link2{
+    width: 230px;
+    height: 230px;
+    color: white;
+    background-image: url(../img/graph.jpg);
+}
